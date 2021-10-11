@@ -1,10 +1,9 @@
 // Complete the following procedure, the 'name' variable in all letters to uppercase, output: ' 'HELLO' '.
 
-var nam3 = 'hello';
-
+var name = 'hello';
 // TODO write your code here...
 
-console.log(nam3.toUpperCase);
+console.log(name.toUpperCase());
 
 // Complete the following procedure, capitalizing all the words in the variable sentence and printing: 'Good Afternoon, Mr Mike.'
 var sentence = 'good afternoon, mr mike.';
